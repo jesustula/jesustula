@@ -9,11 +9,26 @@
 
 
 ## ❤️ Support My Work
+Building and maintaining open-source software takes time, energy, and coffee ☕.
 
-If you like what I do and want to be part of something bigger, consider becoming a sponsor.
+If one of my projects saved you even 10 minutes of development, or helped you ship faster — **consider donating just $1** to support its ongoing improvement.
+
+Your support — even small — makes a big difference.
+
+
+💡 _"If every developer who used this resources bought me a coffee, I could dedicate more time to fixing bugs, adding features, and making it even better for you and others."_
+
+
 
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/jesustula)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/jesustg93)
+
+
+> It takes less than 30 seconds, and just $1 says: “Hey, this helped me — keep going.”
+---
+
+Thank u!
+
 
 ### 🌎 My Mission
 
